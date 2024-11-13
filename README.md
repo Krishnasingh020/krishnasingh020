@@ -36,23 +36,25 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 ---
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Krishnasingh020)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Krishnasingh020"/></a>
-## 🌱 Currently Exploring
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)<br>
+🔭
+I specialize in building dynamic, scalable web applications using a modern tech stack. My expertise includes:
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+   Frontend: ReactJS, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS <br>
+   Backend: Node.js, Express.js, RESTful APIs <br>
+   Databases: MongoDB, MySQL <br>
+   DevOps: Docker, AWS (EC2, S3), Git/GitHub for version control <br>
+   Others: Next.js, Webpack, GraphQL
+
+Passionate about crafting clean, efficient code and optimizing web performance. Always learning and keeping up with the latest trends in web development!
+
+
 
  <!--## 🏆 Achievements
 
