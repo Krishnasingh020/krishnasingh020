@@ -40,7 +40,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ---
-
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Krishnasingh020)](https://git.io/streak-stats)
