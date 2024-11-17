@@ -41,8 +41,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Krishnasingh020)](https://git.io/streak-stats)
 
-![Leetcode Stats](https://leetcode.com/u/krishnasingh020/)
-
 [![Leetcode Stats](https://leetcode.com/u/krishnasingh020/)](https://leetcode.com/u/krishnasingh020/)
 
 ![](https://leetcode.com/u/krishnasingh020/?site=us)
