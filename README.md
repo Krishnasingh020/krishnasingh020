@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=Krishnasingh020&label=Profile%20Views&color=0e75b6&style=flat)
+
 # 💫 About Me:
 🔭 I’m currently working on a saas product for SMB's.<br>👯 I’m looking to collaborate on upcoming projects.<br>🤝 I’m looking for help with network and connections.<br>🌱 I’m currently learning Rust.<br>⚡ Fun fact - The iconic "Octocat" mascot actually has a name — it's "Monalisa Octocat"! 🐙💻
 
